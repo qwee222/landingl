@@ -1,0 +1,15 @@
+{
+  "name": "annalive-wasm",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "annalive_wasm_bg.wasm",
+    "annalive_wasm.js",
+    "annalive_wasm.d.ts"
+  ],
+  "main": "annalive_wasm.js",
+  "types": "annalive_wasm.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
