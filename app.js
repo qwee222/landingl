@@ -2,7 +2,7 @@ import init, { get_translation, NotificationPool, generate_ip } from './pkg/anna
 
 let pool;
 
-const URL_CPA = "https://lov-me-bttr.com/tds/ae?tdsId=s1127pos_r&tds_campaign=s1127pos&s1=ps&utm_source=int&utm_sub=opnfnl&affid=b9915570&subid={Serie70}&subid2={subid2}&clickid={clickid}";
+const URL_CPA = "https://aoarlv.hornygiirls.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=234303&s2=2288740&s3=Sevienediciembre";
 const URL_VIDEO = "https://directo.discrettasliveftosgroup.com/video.mp4";
 
 function initTranslations() {
